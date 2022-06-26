@@ -1,5 +1,5 @@
 [![Typing SVG](http://readme-typing-svg.herokuapp.com?duration=3000&color=FF99CC&vCenter=true&multiline=true&height=90&lines=Hello+wanderer!+They+call+me;FREAK+FROM+THE+COMPUTER+CLUB%2C;fftcc+in+short.)](https://git.io/typing-svg)
-
+<br>
 ##### **Visit my weird websites**:
 
 [![Website](https://img.shields.io/website?down_color=ed4e50&down_message=offline&label=ff99cc.art&style=flat-square&up_color=50ee80&up_message=online&url=https%3A%2F%2Fff99cc.art)](https://ff99cc.art)
@@ -7,28 +7,35 @@
 [![Website](https://img.shields.io/website?down_color=ed4e50&down_message=offline&label=ff99cc.neocities.org&style=flat-square&up_color=50ee80&up_message=online&url=https%3A%2F%2Fff99cc.neocities.org)](https://ff99cc.neocities.org)
 
 <a href="dontlose.link">![Website](https://img.shields.io/website?down_color=ed4e50&down_message=offline&label=dontlose.link&style=flat-square&up_color=50ee80&up_message=online&url=https%3A%2F%2Fdontlose.link)</a>
-
-
-
+<br>
+<br>
+<br>
 ##### Follow me on:
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:24px;" />[Neocities.org](neocities.org/fftcc)
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/mastodon.png" style="width:24px;" />[Mastodon.social](mastodon.social/fftcc)
-
-
-
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:28px;height:24px;" /> [Neocities.org](https://neocities.org/site/ff99cc)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/mastodon.png" style="width:24px;" /> [Mastodon.social](https://mas.to/@fftcc)
+<br>
+<br>
+<br>
 ##### Buy an avid coffee lover a cup of coffee !
-
-**Click !**
-
-![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)
+<br>
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)
 ![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/usdt-trx.png)
-![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [QIWI](qiwi.com/n/RUSSI698)   |   <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi2-logo.png" style="width:24px;" /> [QIWI Donate](https://donate.qiwi.com/payin/copywtf)
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/liberapay-logo.png" style="width:24px;" />[LiberaPay](https://liberapay.com/fftcc/) **! ! ! TEMPORARILY NOT WORKING**
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi-logo.png" style="width:24px;" />[Ko-Fi](ko-fi.com/fftcc) **! ! ! TEMPORARILY NOT WORKING**
+![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)**Click !**](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm-svgrepo-com-red2.png" style="width:108px;" />
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [QIWI](qiwi.com/n/RUSSI698)
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi2-logo.png" style="width:24px;" /> [QIWI Donate](https://donate.qiwi.com/payin/copywtf)
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/liberapay-logo.png" style="width:24px;" /> [LiberaPay](https://liberapay.com/fftcc/) **! ! ! TEMPORARILY NOT WORKING**
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi-logo.png" style="width:24px;" /> [Ko-Fi](ko-fi.com/fftcc) **! ! ! TEMPORARILY NOT WORKING**
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm-logo-red.png" style="width:108px; height:35px;"/>
 
 ---
 
@@ -61,16 +68,19 @@
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/journal-admin)
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/journal-admin)
-
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/wtfpl-1.png" style="width:75px; height:65px;" /><img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/gnu-gpl-logo.png" style="width:75px; height:65px;" /><img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/open-source-logo.png" style="width:75px; height:65px;" />
+<br>
 
 ---
 
 **EMAIL/XMPP** (only OMEMO) <fftcc@disroot.org> | **GPG** [CD2C 0865 16B0 7B70 4034  2426 C946 BC93 0992 BBCB](example)
-
-
-
-
-
+<br>
+<br>
+<br>
 Made with <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/love.png" style="width:32px;" /> fftcc.
 
