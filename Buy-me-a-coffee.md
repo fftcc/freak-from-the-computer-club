@@ -46,8 +46,6 @@
 
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-shib.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
-- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-dai.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
-
-- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-uni.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-busd.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
 > И любые монеты  в сети `Binance Smart Chain BEP-20`
