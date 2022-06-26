@@ -24,3 +24,13 @@
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
 
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-shib.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-dai.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-uni.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+> И любые монеты  в сети `Ethereum ERC-20`
