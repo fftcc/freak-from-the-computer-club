@@ -2,4 +2,4 @@
 
 rMvjWSTXwSfwc1YwwgVmuxRQtEnrkZPjFd
 
-Сеть: Ripple
+`Сеть: Ripple`
