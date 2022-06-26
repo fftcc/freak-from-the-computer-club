@@ -24,13 +24,13 @@
 
 [**Click !**](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/btc/btc.md)
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/usdt-trx.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/xmr/xmr.md)
 
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/ltc/ltc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
