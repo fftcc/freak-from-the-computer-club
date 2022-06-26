@@ -36,13 +36,13 @@
 
 [**More coin...**](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi.png)](qiwi.com/n/RUSSI698)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi.png)](https://qiwi.com/n/RUSSI698)
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi2-logo.png" style="width:24px;" /> [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-donate.png)](https://donate.qiwi.com/payin/copywtf)
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/liberapay-logo.png" style="width:24px;" /> [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/liberapay.png)](https://liberapay.com/fftcc/) **! ! ! TEMPORARILY NOT WORKING**
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi-logo.png" style="width:24px;" /> [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi.png)](ko-fi.com/fftcc) **! ! ! TEMPORARILY NOT WORKING**
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi-logo.png" style="width:24px;" /> [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi.png)](https://ko-fi.com/fftcc) **! ! ! TEMPORARILY NOT WORKING**
 <br>
 <br>
 <br>
