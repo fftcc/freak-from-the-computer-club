@@ -49,3 +49,21 @@
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-busd.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
 > И любые монеты  в сети `Binance Smart Chain BEP-20`
+
+<br>
+<br>
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-bnb.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-shib.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-busd.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+> И любые монеты  в сети `BNB BEP-2 (Beacon Chain)`
+
+<br>
+<br>
