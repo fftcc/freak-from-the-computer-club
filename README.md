@@ -38,7 +38,7 @@
 
 ---
 
-<img src="./badges/npm.svg" style="width:24px;" /> [normalize-mod.css](https://www.npmjs.com/package/normalize-mod.css)  ![npm](https://img.shields.io/npm/v/normalize-mod.css?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/normalize-mod.css?color=%23ff99cc&style=flat-square)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.svg" style="width:24px;" /> [normalize-mod.css](https://www.npmjs.com/package/normalize-mod.css)  ![npm](https://img.shields.io/npm/v/normalize-mod.css?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/normalize-mod.css?color=%23ff99cc&style=flat-square)
 
 <img src="./badges/git.svg" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/normalize-mod.css) <img src="./badges/github.svg" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/normalize-mod.css)
 
