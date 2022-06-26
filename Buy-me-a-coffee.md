@@ -17,3 +17,10 @@
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/zec/zec.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/zec/zec.md)
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xrp/xrp.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/xrp/xrp.md)
+
+<br>
+<br>
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
