@@ -12,16 +12,23 @@
 <br>
 ##### Follow me on:
 <br>
+
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:28px;height:24px;" /> [Neocities.org](https://neocities.org/site/ff99cc)
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/mastodon.png" style="width:24px;" /> [Mastodon.social](https://mas.to/@fftcc)
 <br>
 <br>
 <br>
+
 ##### Buy an avid coffee lover a cup of coffee !
 <br>
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)
-![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/usdt-trx.png)
-![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)**Click !**](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
+[**Click !**](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/usdt-trx.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [QIWI](qiwi.com/n/RUSSI698)
 
