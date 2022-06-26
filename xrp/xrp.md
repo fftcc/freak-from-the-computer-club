@@ -1,4 +1,4 @@
-![](xrp.png)
+![](qr-xrp.png)
 
 rMvjWSTXwSfwc1YwwgVmuxRQtEnrkZPjFd
 
