@@ -79,11 +79,13 @@
 <br>
 <br>
 
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-bnb.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/sol/sol.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/sol/sol.md)
 
-- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/sol/sol-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/sol/sol.md)
 
-- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/sol/sol-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/sol/sol.md)
+
+> И любые монеты  в сети `Solana`
 
 <br>
 <br>
