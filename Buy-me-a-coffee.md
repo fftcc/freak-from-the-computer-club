@@ -90,9 +90,9 @@
 <br>
 <br>
 
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/polygon/polygon.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/polygon/polygon.md)
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/polygon/polygon-matic.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/polygon/polygon.md)
 
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/polygon/polygon-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/polygon/polygon.md)
 
 
-> И любые монеты  в сети `Solana`
+> И любые монеты  в сети `Polygon`
