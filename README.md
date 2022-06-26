@@ -25,7 +25,7 @@
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/btc/btc.md)
 
-[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/usdt-trx.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/trx/trx.md)
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/trx-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/trx/trx.md)
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/xmr/xmr.md)
 
