@@ -40,11 +40,11 @@
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-bnb.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-shib.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
+
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
-
-- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-shib.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-busd.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
 
