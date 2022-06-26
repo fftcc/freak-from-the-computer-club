@@ -30,6 +30,12 @@
 
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
 
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/ltc/ltc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
+[**More coin...**](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/Buy-me-a-coffee.md)
+
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [QIWI](qiwi.com/n/RUSSI698)
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi2-logo.png" style="width:24px;" /> [QIWI Donate](https://donate.qiwi.com/payin/copywtf)
