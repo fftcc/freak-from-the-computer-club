@@ -12,7 +12,7 @@
 <br>
 ##### Follow me on:
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:28px;height:24px;" /> [Neocities.org](https://neocities.org/site/ff99cc)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:26px;height:24px;" /> [Neocities.org](https://neocities.org/site/ff99cc)
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/mastodon.png" style="width:24px;" /> [Mastodon.social](https://mas.to/@fftcc)
 <br>
 <br>
@@ -53,25 +53,25 @@
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:18px;" /> [**fftcc-palette**](https://www.npmjs.com/package/fftcc-palette)  ![npm](https://img.shields.io/npm/v/fftcc-palette?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/fftcc-palette?color=%23ff99cc&style=flat-square)
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/fftcc-palette) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" /> [Github Repo Mirror](https://github.com/fftcc/fftcc-palette)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/fftcc-palette)
 
 ---
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:18px;" /> [**normalize-mod.css**](https://www.npmjs.com/package/normalize-mod.css)  ![npm](https://img.shields.io/npm/v/normalize-mod.css?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/normalize-mod.css?color=%23ff99cc&style=flat-square)
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/normalize-mod.css) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" /> [Github Repo Mirror](https://github.com/fftcc/normalize-mod.css)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/normalize-mod.css)
 
 ---
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:18px;" /> [**own-scrolls**](https://www.npmjs.com/package/own-scrolls)  ![npm](https://img.shields.io/npm/v/own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/own-scrolls?color=%23ff99cc&style=flat-square)
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/own-scrolls) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" /> [Github Repo Mirror](https://github.com/fftcc/own-scrolls)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/own-scrolls)
 
 ---
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:18px;" /> [**react-own-scrolls**](https://www.npmjs.com/package/react-own-scrolls)  ![npm](https://img.shields.io/npm/v/react-own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/react-own-scrolls?color=%23ff99cc&style=flat-square)
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/react-own-scrolls) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" /> [Github Repo Mirror](https://github.com/fftcc/react-own-scrolls)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/react-own-scrolls)
 
 ---
 
@@ -79,7 +79,6 @@
 ##### **Linux Admin Notes**:
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/journal-admin)
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" /> [Github Repo Mirror](https://github.com/fftcc/journal-admin)
 <br>
 <br>
 <br>
