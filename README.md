@@ -12,8 +12,8 @@
 
 ##### Follow me on:
 
-<img src="./badges/moon.gif" style="width:24px;" />[Neocities.org](neocities.org/fftcc)
-<img src="./badges/mastodon.svg" style="width:24px;" />[Mastodon.social](mastodon.social/fftcc)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/neocities.png" style="width:24px;" />[Neocities.org](neocities.org/fftcc)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/mastodon.png" style="width:24px;" />[Mastodon.social](mastodon.social/fftcc)
 
 
 
@@ -21,46 +21,46 @@
 
 **Click !**
 
-<img src="./badges/bitcoin.svg" style="width:24px;" />[![](./btc/btc.svg)]()
-<img src="./badges/usdt.svg" style="width:24px;" />[![](./trx/usdt%20trx.svg)]()
-<img src="./badges/monero.svg" style="width:24px;" />[![](./xmr/xmr.svg)]()
-<img src="./badges/qiwi.svg" style="width:24px;" /> [QIWI](qiwi.com/n/RUSSI698)   |   <img src="./badges/qiwi2.svg" style="width:24px;" /> [QIWI Donate](https://donate.qiwi.com/payin/copywtf)
-<img src="./badges/liberapay.svg" style="width:24px;" />[LiberaPay](https://liberapay.com/fftcc/) **! ! ! TEMPORARILY NOT WORKING**
-<img src="./badges/kofi.svg" style="width:24px;" />[Ko-Fi](ko-fi.com/fftcc) **! ! ! TEMPORARILY NOT WORKING**
+![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/btc/btc.png)
+![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/usdt-trx.png)
+![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/xmr/xmr.png)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi-logo.png" style="width:24px;" /> [QIWI](qiwi.com/n/RUSSI698)   |   <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/qiwi2-logo.png" style="width:24px;" /> [QIWI Donate](https://donate.qiwi.com/payin/copywtf)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/liberapay-logo.png" style="width:24px;" />[LiberaPay](https://liberapay.com/fftcc/) **! ! ! TEMPORARILY NOT WORKING**
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/ko-fi-logo.png" style="width:24px;" />[Ko-Fi](ko-fi.com/fftcc) **! ! ! TEMPORARILY NOT WORKING**
 
-<img src="./badges/npm-svgrepo-com-red2.svg" style="width:108px;" />
-
----
-
-<img src="./badges/npm.svg" style="width:24px;" /> [fftcc-palette](https://www.npmjs.com/package/fftcc-palette)  ![npm](https://img.shields.io/npm/v/fftcc-palette?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/fftcc-palette?color=%23ff99cc&style=flat-square)
-
-<img src="./badges/git.svg" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/fftcc-palette) <img src="./badges/github.svg" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/fftcc-palette)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm-svgrepo-com-red2.png" style="width:108px;" />
 
 ---
 
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.svg" style="width:24px;" /> [normalize-mod.css](https://www.npmjs.com/package/normalize-mod.css)  ![npm](https://img.shields.io/npm/v/normalize-mod.css?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/normalize-mod.css?color=%23ff99cc&style=flat-square)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:24px;" /> [fftcc-palette](https://www.npmjs.com/package/fftcc-palette)  ![npm](https://img.shields.io/npm/v/fftcc-palette?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/fftcc-palette?color=%23ff99cc&style=flat-square)
 
-<img src="./badges/git.svg" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/normalize-mod.css) <img src="./badges/github.svg" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/normalize-mod.css)
-
----
-
-<img src="./badges/npm.svg" style="width:24px;" /> [own-scrolls](https://www.npmjs.com/package/own-scrolls)  ![npm](https://img.shields.io/npm/v/own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/own-scrolls?color=%23ff99cc&style=flat-square)
-
-<img src="./badges/git.svg" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/own-scrolls) <img src="./badges/github.svg" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/own-scrolls)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/fftcc-palette) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/fftcc-palette)
 
 ---
 
-<img src="./badges/npm.svg" style="width:24px;" /> [react-own-scrolls](https://www.npmjs.com/package/react-own-scrolls)  ![npm](https://img.shields.io/npm/v/react-own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/react-own-scrolls?color=%23ff99cc&style=flat-square)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:24px;" /> [normalize-mod.css](https://www.npmjs.com/package/normalize-mod.css)  ![npm](https://img.shields.io/npm/v/normalize-mod.css?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/normalize-mod.css?color=%23ff99cc&style=flat-square)
 
-<img src="./badges/git.svg" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/react-own-scrolls) <img src="./badges/github.svg" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/react-own-scrolls)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/normalize-mod.css) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/normalize-mod.css)
+
+---
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:24px;" /> [own-scrolls](https://www.npmjs.com/package/own-scrolls)  ![npm](https://img.shields.io/npm/v/own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/own-scrolls?color=%23ff99cc&style=flat-square)
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/own-scrolls) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/own-scrolls)
+
+---
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:24px;" /> [react-own-scrolls](https://www.npmjs.com/package/react-own-scrolls)  ![npm](https://img.shields.io/npm/v/react-own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/react-own-scrolls?color=%23ff99cc&style=flat-square)
+
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/react-own-scrolls) <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/react-own-scrolls)
 
 ---
 
 
 ##### **Linux Admin Notes**:
 
-<img src="./badges/git.svg" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/journal-admin)
-<img src="./badges/github.svg" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/journal-admin)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" />[Notabug Repo](https://notabug.org/fftcc/journal-admin)
+<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/github.png" style="width:24px;" />[Github Repo Mirror](https://github.com/fftcc/journal-admin)
 
 
 
@@ -72,4 +72,5 @@
 
 
 
-Made with <img src="./badges/love.svg" style="width:32px;" /> fftcc.
+Made with <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/love.png" style="width:32px;" /> fftcc.
+
