@@ -53,6 +53,17 @@
 <br>
 <br>
 
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/trx-tron.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/trx/trx.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/trx-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/trx/trx.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/trx/trx-btt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/trx/trx.md)
+
+> И любые монеты  в сети `Tron`
+
+<br>
+<br>
+
 [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-bnb.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
 
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
@@ -64,6 +75,15 @@
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-busd.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
 
 > И любые монеты  в сети `BNB BEP-2 (Beacon Chain)`
+
+<br>
+<br>
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-bnb.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bnb-bep2/bnb-bep2-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bnb-bep2/bnb-bep2.md)
 
 <br>
 <br>
