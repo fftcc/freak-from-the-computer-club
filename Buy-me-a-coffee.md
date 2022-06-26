@@ -34,3 +34,20 @@
 - [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/eth/eth-uni.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
 
 > И любые монеты  в сети `Ethereum ERC-20`
+
+<br>
+<br>
+
+[![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-bnb.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-usdt.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-usdc.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-shib.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-dai.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/bsc-bep20/bsc-bep20.md)
+
+- [![](https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/bsc-bep20/bsc-bep20-uni.png)](https://notabug.org/fftcc/Buy-me-a-coffee/src/main/eth/eth.md)
+
+> И любые монеты  в сети `Binance Smart Chain BEP-20`
