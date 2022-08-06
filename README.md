@@ -45,6 +45,13 @@
 <br>
 <br>
 <br>
+# Projects
+- [update-repo](https://git.disroot.org/fftcc/update-repo) - Automatic updating of repositories that do not require meaningful commits
+
+- [Motoko Theme](https://git.disroot.org/motoko-theme/motoko-theme) - Awesome dark theme for rofi, xresources, vscode. Made with love for the old cyberpunk
+<br>
+<br>
+<br>
 <br>
 <br>
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm-logo-red.png" style="width:108px; height:35px;"/>
@@ -66,12 +73,6 @@
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:18px;" /> [**own-scrolls**](https://www.npmjs.com/package/own-scrolls)  ![npm](https://img.shields.io/npm/v/own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/own-scrolls?color=%23ff99cc&style=flat-square)
 
 <img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/own-scrolls)
-
----
-
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/npm.png" style="width:18px;" /> [**react-own-scrolls**](https://www.npmjs.com/package/react-own-scrolls)  ![npm](https://img.shields.io/npm/v/react-own-scrolls?color=%239867f0&style=flat-square) ![NPM](https://img.shields.io/npm/l/react-own-scrolls?color=%23ff99cc&style=flat-square)
-
-<img src="https://notabug.org/fftcc/Buy-me-a-coffee/raw/main/badges/git.png" style="width:24px;" /> [Notabug Repo](https://notabug.org/fftcc/react-own-scrolls)
 
 ---
 
