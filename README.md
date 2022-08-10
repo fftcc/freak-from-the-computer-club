@@ -14,7 +14,7 @@
 <br>
 
 # Projects
-- [Motoko Theme](https://git.disroot.org/motoko-theme/motoko-theme) - Awesome dark theme for rofi, xresources, vscode. Made with love for the old cyberpunk
+- [Acid Moon Theme](https://git.disroot.org/acidmoon/acidmoon-theme) - Awesome dark theme for more than 5 apps. Made with love for the old cyberpunk
 
 - [update-repo](https://git.disroot.org/fftcc/update-repo) - Automatic updating of repositories that do not require meaningful commits
 
